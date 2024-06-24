@@ -1,1 +1,1 @@
-# Estad-sticaMultivariada
+# EstadisticaMultivariada
