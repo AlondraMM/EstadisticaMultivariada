@@ -1,3 +1,3 @@
 # EstadisticaMultivariada
 
-Análisis de la calidad de vida a través de diferentes herramientas estadísticas
+Análisis de la calidad de vida a través de regresión multivariada y escalamiento multidimensional (MDS). 
